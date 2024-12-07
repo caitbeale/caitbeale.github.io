@@ -1,4 +1,4 @@
-**Hi class, welcome to the AOS C111/204 final project!** <img align="right" width="220" height="220" src="/assets/IMG/template_logo.png">
+**Caitlin's AOS C111/204 final project!** <img align="right" width="220" height="220" src="/assets/IMG/template_logo.png">
 
 For this project, you will be applying your skills to train a machine learning model using real-world data, then publishing a report on your own website.
 
@@ -11,9 +11,15 @@ For this project, you will be applying your skills to train a machine learning m
 
 Your website will be a great addition to your CV, and a place to host future projects too since it doubles as a GitHub repository. The first step is to set up a project website like this one by following the instructions below. 
 
-## How does this website work?
+## Dataset
 
-First, check out the Github repository for this site: [https://github.com/atmosalex/atmosalex.github.io/](https://github.com/atmosalex/atmosalex.github.io/).
+[Item Resale Dataset]([https://github.com/atmosalex/atmosalex.github.io/](https://www.kaggle.com/competitions/mercari-price-suggestion-challenge/data?select=train.tsv.7z))
+
+## Report
+
+[Women's Blouses Resale Value Modeling](/assets/project_demo.pdf)
+
+
 
 Using GitHub pages, you can write a website using markdown syntax - the same syntax we use to write comments in Google Colab notebooks. GitHub pages then takes the markdown file and renders it as a web page using a Jekyll theme. The markdown source code for this page [is shown here](https://github.com/atmosalex/atmosalex.github.io/blob/main/README.md?plain=1).
 
