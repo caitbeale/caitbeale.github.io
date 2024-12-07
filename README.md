@@ -1,37 +1,19 @@
 **Caitlin's AOS C111/204 final project!** <img align="right" width="220" height="220" src="/assets/IMG/template_logo.png">
 
-For this project, you will be applying your skills to train a machine learning model using real-world data, then publishing a report on your own website.
-
-* To get data for your project, you could:
-  * use **your own data** from a separate research activity
-  * **scour the internet** to find something original, then preprocess it yourself - see the Module Overview on BruinLearn for some resources
-  * browse an archive of data designed for machine learning problems, such as the [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/datasets)
-
-* Your report should be written in a scientific language and style. [This template page](/project.md) gives an example structure that you could use, but feel free to make it your own. See Bruinlearn for some examples from previous students.
-
-Your website will be a great addition to your CV, and a place to host future projects too since it doubles as a GitHub repository. The first step is to set up a project website like this one by following the instructions below. 
 
 ## Dataset
 
-[Item Resale Dataset]([https://github.com/atmosalex/atmosalex.github.io/](https://www.kaggle.com/competitions/mercari-price-suggestion-challenge/data?select=train.tsv.7z))
+[Item Resale Dataset](https://www.kaggle.com/competitions/mercari-price-suggestion-challenge/data?select=train.tsv.7z)
 
 ## Report
 
-[Women's Blouses Resale Value Modeling](assets/AOS C111 Final Project.pdf)
-[like so](/assets/AOS C.pdf)
+[Women's Blouses Resale Value Modeling](assets/project.pdf)
+
+## Code
+
+[Code Notebook: Women's Blouses Resale Value Modeling]([assets/project.pdf](https://colab.research.google.com/drive/1lx_6Vz3xkAmtXmgwrdoo7-QynwPnilPY?usp=sharing))
 
 
-
-Using GitHub pages, you can write a website using markdown syntax - the same syntax we use to write comments in Google Colab notebooks. GitHub pages then takes the markdown file and renders it as a web page using a Jekyll theme. The markdown source code for this page [is shown here](https://github.com/atmosalex/atmosalex.github.io/blob/main/README.md?plain=1).
-
-## Setting up your Project Website
-
-### How to copy this site as a template
-1. Create [a GitHub account](https://github.com/)
-2.	Go to [https://github.com/atmosalex/atmosalex.github.io/](https://github.com/atmosalex/atmosalex.github.io/) and click *Use this template*, then **Create a new repository**. [![screenshot][1]][1]
-3.	In the box that says *Repository name*, write your **Github username**, followed by **.github.io**, as shown in the screenshot below. Then click **Create repository** at the bottom. [![screenshot][2]][2]
-4.	Go to the *Settings* tab, then click *Pages* (under *Code and automation*). In the *Build and deployment* section, under **Branch**, select "main" and click save (if it isn't already selected). It should look like this: [![screenshot][3]][3]
-5.	Click the *Actions* tab at the top of the page and check that the build and deployment action has finished. Once it has, navigate to **[your username].github.io** to see your site, which should be a copy of this one! If you cannot see an *Actions* tab, just wait a few minutes then go to your URL to check it is live.
 
 Now you are ready to customize your site! To add your name to the site, go to your repository page on Github, click `_config.yml`, and edit it to replace the temporary title with your name, etc. When we make changes to a project on Github, we have to **commit** the new version of each file. Github keeps track of all the changes we make, making it easy to roll back (i.e. return the project to a previous commit).
 
