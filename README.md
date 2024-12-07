@@ -17,7 +17,8 @@ Your website will be a great addition to your CV, and a place to host future pro
 
 ## Report
 
-[Women's Blouses Resale Value Modeling](/assets/AOS C111 Final Project)
+[Women's Blouses Resale Value Modeling](assets/AOS C111 Final Project.pdf)
+[like so](/assets/AOS C.pdf)
 
 
 
