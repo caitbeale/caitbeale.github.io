@@ -12,3 +12,4 @@
 ## Code
 
 [Code Notebook: Women's Blouses Resale Value Modeling]([assets/project.pdf](https://colab.research.google.com/drive/1lx_6Vz3xkAmtXmgwrdoo7-QynwPnilPY?usp=sharing))
+
